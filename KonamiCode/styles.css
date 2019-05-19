@@ -1,0 +1,25 @@
+#kitten-photos {
+    text-align: center;
+}
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+img{
+    margin: 15px;
+}
+.issue-box{
+    padding: 8px;
+    margin: 8px;
+    border: 2px dotted darkblue;
+    text-align: center;
+    background: white;
+}
+#secret-div{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 0;
+    background: bisque;
+    padding: 50px;
+    border: 1px solid;
+}
